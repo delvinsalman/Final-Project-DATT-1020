@@ -14,3 +14,9 @@ way if wanted.
 ## Log Notes
 
 We can place here if a group member has updated the pacther and can write it here about what they changed, did, or added. ↓
+
+-
+-
+-
+-
+-
