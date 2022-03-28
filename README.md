@@ -16,7 +16,7 @@ way if wanted.
 We can place here if a group member has updated the pacther and can write it here about what they changed, did, or added. ↓
 
 - Created the pacther and uploaded it, called "Final Project".
--
--
+- Starting to create, and add models. (Check the models folder)
+- Starting to create code for max, such as skybox, functions, etc. 
 -
 -
