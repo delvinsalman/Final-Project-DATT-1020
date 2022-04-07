@@ -24,3 +24,4 @@ We can place here if a group member has updated the pacther and can write it her
 - Worked on sound and placement
 - Gave our references to what we used.
 - Compeleted the following, models, movement, fish, creatures, sound, and camera. 
+- Project due (Thursday, April 7, 2022)
