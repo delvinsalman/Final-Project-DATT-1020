@@ -20,7 +20,7 @@ We can place here if a group member has updated the pacther and can write it her
 - Starting to create code for max, such as skybox, functions, etc. 
 - Worked on the project a lot.
 - Made the models shows (60+) and started making moving objects
--Skybox is done in terms of look.
--Worked on sound and placement
--Gave our references to what we used.
--Compeleted the following, models, movement, fish, creatures, sound, and camera. 
+- Skybox is done in terms of look.
+- Worked on sound and placement
+- Gave our references to what we used.
+- Compeleted the following, models, movement, fish, creatures, sound, and camera. 
